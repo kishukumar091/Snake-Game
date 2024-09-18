@@ -15,6 +15,5 @@ public class App {
         frame.add(snakeGame);       //Add the SnakeGame object to the frame
         frame.pack();               //Pack the frame to fit the content
         snakeGame.requestFocus();   //Set the focus on the SnakeGame object
-
     }
 }
