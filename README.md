@@ -15,9 +15,12 @@ A simple implementation of the classic Snake Game using Java. The player control
 
 ---
 
-## Screenshots
+## Technology Used
 
-(Insert screenshots of the game in action here to show gameplay)
+- **Java**: The primary programming language used to develop the game.
+- **Swing**: Java's built-in library for building graphical user interfaces (GUIs), used for rendering the game window and graphics.
+- **AWT**: Java's Abstract Window Toolkit, used for handling user inputs such as key presses.
+- **Graphics**: Custom drawing of the snake, food, and game elements using Java's `Graphics` class.
 
 ---
 
